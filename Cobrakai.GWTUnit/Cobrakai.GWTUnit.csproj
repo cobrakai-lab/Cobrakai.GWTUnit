@@ -1,10 +1,20 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFramework>net48</TargetFramework>
+        <TargetFrameworks>netstandard2.0;net48;net5.0</TargetFrameworks>
+        <PackageId>Cobrakai.GWTUnit</PackageId>
+        <Version>1.0.0</Version>
+        <Company>Cobrakai Lab</Company>
         <Authors>Cobrakai</Authors>
+        <RootNamespace>Cobrakai.GWTUnit</RootNamespace>
+        <AssemblyName>Cobrakai.GWTUnit</AssemblyName>
         <Description>A light-weight library to help you enforce a Give-When-Then structure on unit tests</Description>
-        <RootNamespace>Cobrakai</RootNamespace>
+        <PackageTags>Unit Test;Given-When-Then;Behavior-Driven-Development</PackageTags>
+        <Copyright>Copyright (c) Cobrakai 2021.</Copyright>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageProjectUrl>https://github.com/cobrakai-lab/Cobrakai.GWTUnit</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/cobrakai-lab/Cobrakai.GWTUnit</RepositoryUrl>
+        <PublishRepositoryUrl>true</PublishRepositoryUrl> 
     </PropertyGroup>
 
 </Project>
