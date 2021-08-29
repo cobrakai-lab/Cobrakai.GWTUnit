@@ -5,10 +5,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Cobrakai.GWTUnit\Cobrakai.GWTUnit.csproj" />
-    </ItemGroup>
-
-    <ItemGroup>
+      <PackageReference Include="Cobrakai.GWTUnit" Version="1.0.0" />
       <PackageReference Include="FluentAssertions" Version="6.1.0" />
       <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.11.0" />
       <PackageReference Include="MSTest.TestAdapter" Version="2.2.6" />
