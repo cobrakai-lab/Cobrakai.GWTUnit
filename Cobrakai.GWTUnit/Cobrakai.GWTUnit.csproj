@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net48</TargetFramework>
+        <Authors>Cobrakai</Authors>
+        <Description>A light-weight library to help you enforce a Give-When-Then structure on unit tests</Description>
+        <RootNamespace>Cobrakai</RootNamespace>
+    </PropertyGroup>
+
+</Project>

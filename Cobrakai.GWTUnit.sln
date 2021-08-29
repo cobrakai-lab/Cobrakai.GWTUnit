@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cobrakai.GWTUnit", "Cobrakai.GWTUnit\Cobrakai.GWTUnit.csproj", "{DA25D797-E848-4FE3-83B9-F5AE363788F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cobrakai.GWTUnit.Test", "Cobrakai.GWTUnit.Test\Cobrakai.GWTUnit.Test.csproj", "{56B8E15B-AF93-4D98-B042-5C314869E06E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA25D797-E848-4FE3-83B9-F5AE363788F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA25D797-E848-4FE3-83B9-F5AE363788F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA25D797-E848-4FE3-83B9-F5AE363788F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA25D797-E848-4FE3-83B9-F5AE363788F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B8E15B-AF93-4D98-B042-5C314869E06E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B8E15B-AF93-4D98-B042-5C314869E06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B8E15B-AF93-4D98-B042-5C314869E06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B8E15B-AF93-4D98-B042-5C314869E06E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
